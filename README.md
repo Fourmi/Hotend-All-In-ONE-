@@ -6,6 +6,7 @@ Hotend full metal for 1.75 mm &amp; 3.00 mm filaments,with nozzle kit 0.20/0.35/
 Description kit :
 
 - Hotend Full metal x1
+- Nozzle kit (0.20/0.35/0.50/0.80 mm)
 - Cartridge heater 12v40 W
 - Thermistor NTC 100 ko encapsuled
 - Fan 25x25
